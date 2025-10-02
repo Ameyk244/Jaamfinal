@@ -1,0 +1,8 @@
+tensorflow
+matplotlib
+huggingface-hub
+flask
+pyngrok
+pillow
+opencv-python
+python-dotenv
