@@ -6,3 +6,4 @@ pyngrok
 pillow
 opencv-python
 python-dotenv
+gunicorn
